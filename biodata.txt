@@ -1,3 +1,4 @@
-NPM : 1706106646
-Nama : Anggit Baskorojati
-Jurusan : Sistem Informasi
+NPM      : 1706106646
+Nama     : Anggit Baskorojati
+Jurusan  : Sistem Informasi
+Angkatan : 2017
